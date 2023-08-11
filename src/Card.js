@@ -4,7 +4,7 @@ const Card = ({ quote, generateNewQuote }) => (
   <div className="max-w-lg mx-auto bg-white rounded-lg shadow-lg overflow-hidden">
     <div className="px-6 py-4">
       <h1 className="text-4xl font-semibold mb-3">
-        Inspiring Quotes Generator
+        Soulful Quotes Generator
       </h1>
       <div className="border-t border-b w-20 border-gray-300 mx-auto"></div>
 
