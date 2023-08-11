@@ -1,4 +1,4 @@
-# Inspiring Quotes Generator
+# Soulful Quotes Generator
 
 ## Table of Contents
 
